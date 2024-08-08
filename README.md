@@ -39,7 +39,7 @@ To run this project, you need to have Python installed along with several librar
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/diabetes-prediction.git
+    git clone https://github.com/Nischal-0/diabetes-prediction.git
     cd diabetes-prediction
     ```
 
